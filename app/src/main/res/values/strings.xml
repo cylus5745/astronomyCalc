@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">astronomyCalc</string>
+    <string name="telescope_prompt">Choose your telescope type.</string>
+    <string-array name="telescope_types">
+        <items>reflector</items>
+        <items>refractor</items>
+    </string-array>
+</resources>
