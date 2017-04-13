@@ -16,7 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".calc" />
-        <activity android:name=".choose"></activity>
+        <activity android:name=".choose" />
+        <activity android:name=".reflector" />
+        <activity android:name=".refractor"></activity>
     </application>
 
 </manifest>
